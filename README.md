@@ -1,2 +1,2 @@
-# sql-patika-dev
-Patika SQL Odev 1 
+# PATIKA.DEV - SQL
+Patika.dev SQL eğitimi kapsamında verilen görevlerin çözümlerini içermektedir
